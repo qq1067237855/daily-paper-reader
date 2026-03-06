@@ -129,10 +129,12 @@ html {
 .markdown-section .dpr-home-notice-list {
   margin: 0;
   padding-left: 18px;
+  font-size: 0.9rem;
+  line-height: 1.55;
 }
 
 .markdown-section .dpr-home-notice-list li {
-  margin: 6px 0;
+  margin: 5px 0;
   color: #2e5f87 !important;
 }
 
